@@ -40,6 +40,8 @@ Este número se ajusta en la Ronda 12 con jugadores reales.
 
 🟢VERDE
 
+<img width="1035" height="58" alt="imagen" src="https://github.com/user-attachments/assets/c7e9b685-ec14-4bba-abed-79122c8b397f" />
+
 ## RONDA 
 
 🔴ROJO
