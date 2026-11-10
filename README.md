@@ -42,14 +42,85 @@ Este número se ajusta en la Ronda 12 con jugadores reales.
 
 <img width="1035" height="58" alt="imagen" src="https://github.com/user-attachments/assets/c7e9b685-ec14-4bba-abed-79122c8b397f" />
 
-## RONDA 
-
-🔴ROJO
+## RONDA 3
 
 🟢VERDE
 
-## RONDA 
+<img width="589" height="58" alt="imagen" src="https://github.com/user-attachments/assets/b3891304-0220-49ec-9a12-40276f75c4c6" />
+
+## RONDA 4
 
 🔴ROJO
 
+<img width="1000" height="351" alt="imagen" src="https://github.com/user-attachments/assets/8d9210f5-7464-4e60-97e8-93d3538cbb1f" />
+
 🟢VERDE
+
+<img width="601" height="54" alt="imagen" src="https://github.com/user-attachments/assets/c33f8411-414b-452a-9ad0-e299621f98f8" />
+
+🔴ROJO
+
+<img width="1012" height="268" alt="imagen" src="https://github.com/user-attachments/assets/171c8803-822e-4740-a1fb-d39f6b8eb3e5" />
+
+🟢VERDE
+
+<img width="586" height="61" alt="imagen" src="https://github.com/user-attachments/assets/05b18d2e-457f-4f2f-9de0-159dd01d90e5" />
+
+## RONDA 5
+
+🔴ROJO
+
+<img width="1029" height="343" alt="imagen" src="https://github.com/user-attachments/assets/399487b8-bd19-4956-bef1-6bc746a882b4" />
+
+🟢VERDE
+
+<img width="588" height="64" alt="imagen" src="https://github.com/user-attachments/assets/928f297e-c695-48c4-bb19-322a6668576b" />
+
+## RONDA 6
+
+🔴ROJO
+
+<img width="1026" height="318" alt="imagen" src="https://github.com/user-attachments/assets/f56af694-c71c-4a48-9043-1b6fbdc8a825" />
+
+🟢VERDE
+
+<img width="580" height="57" alt="imagen" src="https://github.com/user-attachments/assets/0307053e-d99a-4c4f-918f-1d095a54b237" />
+
+## RONDA 7
+
+🔴ROJO
+
+<img width="1024" height="342" alt="imagen" src="https://github.com/user-attachments/assets/e787a206-d5b2-4fa4-a557-e9a29b250ed5" />
+
+🟢VERDE
+
+<img width="594" height="58" alt="imagen" src="https://github.com/user-attachments/assets/8380ca71-1683-4ea1-ba84-8009f91adb31" />
+
+## RONDA 8
+
+🟢VERDE
+
+<img width="577" height="61" alt="imagen" src="https://github.com/user-attachments/assets/5c86ef7c-4578-498a-9024-425698326b43" />
+
+## RONDA 9
+
+🟢VERDE
+
+<img width="583" height="61" alt="imagen" src="https://github.com/user-attachments/assets/b376a4e9-c9e3-4464-9d81-036dd757c0ff" />
+
+## RONDA 10
+
+🔴ROJO
+
+<img width="1044" height="351" alt="imagen" src="https://github.com/user-attachments/assets/05979328-25a0-4f5e-bf87-1383a6e6f7ea" />
+
+🟢VERDE
+
+<img width="654" height="63" alt="imagen" src="https://github.com/user-attachments/assets/165e325a-bec5-4e49-9dd3-073033e6d7af" />
+
+## APP EN FUNCION
+
+<img width="693" height="1386" alt="imagen" src="https://github.com/user-attachments/assets/79a56b4e-941f-4545-b07a-6d73bbc76ac1" />
+
+<img width="696" height="1374" alt="imagen" src="https://github.com/user-attachments/assets/20a729a1-7b11-44d3-b686-b98d5a64492c" />
+
